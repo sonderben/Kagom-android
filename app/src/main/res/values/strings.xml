@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kagom</string>
+    <string name="title_shipment">Shipment</string>
+    <string name="title_distribution_center">Distribution Center</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
